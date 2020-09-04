@@ -1,3 +1,4 @@
+# This code is from https://www.earthdatascience.org/courses/use-data-open-source-python/intro-to-apis/analyze-tweet-sentiment-in-python/
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
